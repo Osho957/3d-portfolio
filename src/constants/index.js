@@ -189,9 +189,9 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'MicroService Model',
-        description: 'Developed a backend application that contains multiple services with almost all the use cases a MicroService can have. ',
-        link: 'https://github.com/Osho957/MicroServices',
+        name: 'HotelRating Backend Application',
+        description: 'A microservices application comprising multiple services, each serving distinct use cases, utilizes both SQL and NoSQL databases to manage the rating system for hotels. ',
+        link: 'https://github.com/Osho957/HotelRatingApplication',
     },
     {
         iconUrl: threads,
