@@ -189,7 +189,7 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'HotelRating Backend Application',
+        name: 'Hotel Rating Backend Application',
         description: 'A microservices application comprising multiple services, each serving distinct use cases, utilizes both SQL and NoSQL databases to manage the rating system for hotels. ',
         link: 'https://github.com/Osho957/HotelRatingApplication',
     },
