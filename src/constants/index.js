@@ -147,7 +147,6 @@ export const experiences = [
         date: "Jan 2022 - May 2023",
         points: [
             "Implemented Delete Rejection Reasons feature on the Paytm OnBoarding engine portal Which Made Analysis Faster By 30%",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "The Impact of the feature resulted in enhanced record management efficiency and a remarkable 50% reduction in manual effort",
         ],
     },
