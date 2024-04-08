@@ -119,11 +119,11 @@ export const experiences = [
         icon: druva,
         iconBg: "#accbe1",
         date: "Nov 2022 - Current",
-        points: [
-            "Developing and maintaining web applications using Python and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+        points: [    
+            "Developed an automated logic to control backup throttling, enabling scheduled and efficient management of throttling issues, and also reducing the overall cost of COGS by $280 per month.",
+            "Achieved a remarkable reduction of up to 80% in manual effort, significantly enhancing overall system reliability and streamlining the backup process.",
+            "Successfully migrated over 10,00,000 customers, leading to substantial improvements in backup and restore processes.",
+            "Achieved a notable speed boost of up to 30%, contributing to a faster and more efficient backup and restore process to the benefit of customers.",
         ],
     },
     {
@@ -133,10 +133,10 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "Jun 2022 - Nov 2023",
         points: [
-            "Developing and maintaining web applications using Java and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Led the successful migration of a set of microservices from version 2.2.6 to the latest version, spring boot 3.1.2.",
+            "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Spearheaded the development of a comprehensive notification service from inception to execution.",
+            "Responsible for delivering personalized invoices and welcome templates to more than 2000 users per day via email and WhatsApp upon course purchases or website signups, enhancing user engagement.",
         ],
     },
     {
@@ -146,10 +146,9 @@ export const experiences = [
         iconBg: "#b7e4c7",
         date: "Jan 2022 - May 2023",
         points: [
-            "Developing and maintaining web applications using Java and other related technologies.",
+            "Implemented Delete Rejection Reasons feature on the Paytm OnBoarding engine portal Which Made Analysis Faster By 30%",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "The Impact of the feature resulted in enhanced record management efficiency and a remarkable 50% reduction in manual effort",
         ],
     },
     // {
@@ -171,7 +170,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: '/contact',
+        link: 'mailto:osho.personal@gmail.com',
     },
     {
         name: 'GitHub',
